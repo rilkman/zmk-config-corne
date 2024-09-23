@@ -49,7 +49,7 @@
    &kp GRAVE &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &kp BSPC
    &kp F1    &kp F2   &kp F3 &kp F4   &kp F5   &kp F6      &trans    &kp MINUS &kp EQUAL &kp LBKT &kp RBKT &kp BSLH
    &kp F7    &kp F8   &kp F9 &kp F10  &kp F11  &kp F12     &trans    &kp UNDER &kp PLUS  &kp LBRC &kp RBRC &kp PIPE
-                             &kpC_PREV&trans   &kp SPACE   &kp C_PP  &trans    &kp C_NEXT
+                             &kp C_PREV &trans   &kp SPACE   &kp C_PP  &trans    &kp C_NEXT
                         >;
                 };
         };
