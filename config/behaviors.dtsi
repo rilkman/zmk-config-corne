@@ -3,7 +3,7 @@
         mt {
             compatible = "zmk,behavior-hold-tap";
             label = "MT";
-            flavor = "tap-unless-interrupted";              // Options: "hold-preferred", "balanced", "tap-preferred", "tap-unless-interrupted"
+            flavor = "tap-preferred";              // Options: "hold-preferred", "balanced", "tap-preferred", "tap-unless-interrupted"
             tapping-term-ms = <1000>;          // Duration in milliseconds to distinguish tap from hold
         };
     };
